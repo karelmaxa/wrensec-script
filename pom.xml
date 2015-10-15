@@ -60,10 +60,10 @@
         </license>
     </licenses>
     <scm>
-        <connection>scm:svn:https://svn.forgerock.org/commons/forgerock-script/trunk</connection>
-        <developerConnection>scm:svn:https://svn.forgerock.org/commons/forgerock-script/trunk</developerConnection>
-        <url>http://sources.forgerock.org/browse/commons/forgerock-script/trunk</url>
-    </scm>
+        <connection>scm:git:ssh://git@stash.forgerock.org:7999/commons/forgerock-script.git</connection>
+        <developerConnection>scm:git:ssh://git@stash.forgerock.org:7999/commons/forgerock-script.git</developerConnection>
+        <url>http://stash.forgerock.org/projects/COMMONS/repos/forgerock-script/browse</url>  
+  </scm>
     <distributionManagement>
         <site>
             <id>community.internal.forgerock.com</id>
